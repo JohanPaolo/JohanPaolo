@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**JohanPaolo/JohanPaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Johan Paolo, a Systems Engineering student passionate about programming and always eager to learn new things. Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I'm looking to collaborate on web project and data science project.
+
+# Contact
+- LinkedIn: [Johan Paolo](www.linkedin.com/in/johan-paolo-huayanay-arcos-198543237])
+
+## Technologies I'm Familiar With
+
+- Programming Languages: Java, Python, Javascript, C++
+- Tools and Frameworks: Excel, React, Power BI, R, SQL and PL/SQL 
+
+## My Featured Projects
+
+- [Project 1: Single Page Application with React](https://github.com/JohanPaolo/pokemon-single-page-app)
+- [Project 2: Logistic Regression Model with Python](https://github.com/JohanPaolo/LogisticRegressionModel)
+
+Thanks for stopping by my profile! Feel free to explore my repositories and contact me if you have any questions or suggestions.
+
