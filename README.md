@@ -7,7 +7,7 @@ I'm Johan Paolo, a Systems Engineering student passionate about programming and 
 - 👯 I'm looking to collaborate on web project and data science project.
 
 # Contact
-- LinkedIn: [Johan Paolo](www.linkedin.com/in/johan-paolo-huayanay-arcos-198543237])
+- LinkedIn: [Johan Paolo](https://www.linkedin.com/in/johan-huayanay/])
 
 ## Technologies I'm Familiar With
 
