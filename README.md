@@ -1,23 +1,69 @@
-# Hello there! 👋
+# Johan Paolo Huayanay Arcos
 
-I'm Johan Paolo, a Systems Engineering student passionate about programming and always eager to learn new things. Welcome to my GitHub profile.
+Systems Engineer | Aspiring Data Analyst | Business & Data Enthusiast
 
-## About Me
+# About Me 👨‍💻
 
-- 👯 I'm looking to collaborate on web project and data science project.
+I’m a Systems Engineering student focused on Data Analytics, Business Intelligence and Machine Learning.
+I enjoy transforming raw data into insights that support decision-making.
 
-# Contact
-- LinkedIn: [Johan Paolo](https://www.linkedin.com/in/johan-huayanay/])
+Currently:
 
-## Technologies I'm Familiar With
+📊 Working on end-to-end data projects (ETL + SQL + BI)
+🧠 Developing analytical models with Python
+📈 Building dashboards in Power BI
+🎯 Preparing for roles in Data Analytics / Data Science Junior
 
-- Programming Languages: Java, Python, Javascript, C++
-- Tools and Frameworks: Excel, React, Power BI, R, SQL and PL/SQL 
+I’m especially interested in:
+- Business Intelligence
+- Data-driven decision making
+- Machine Learning applied to real-world problems
+- Data Engineering fundamentals
 
-## My Featured Projects
+🛠 Tech Stack
 
-- [Project 1: Single Page Application with React](https://github.com/JohanPaolo/pokemon-single-page-app)
-- [Project 2: Logistic Regression Model with Python](https://github.com/JohanPaolo/LogisticRegressionModel)
+💻 Programming & Query Languages
+- Python (Pandas, NumPy, Scikit-learn)
+- PL/SQL
+- R
+- JavaScript
+- Java
 
-Thanks for stopping by my profile! Feel free to explore my repositories and contact me if you have any questions or suggestions.
+📊 Data & BI Tools
+- Power BI
+- Excel (Advanced)
+- Git & GitHub
+- PostgreSQL
+- SQL Server
 
+# Featured Projects
+📦 E-Commerce Data Analysis (Olist Dataset)
+- ETL process from CSV to PostgreSQL
+- Data modeling and relational schema design
+- Business KPI analysis
+- Interactive Power BI dashboard
+- Exploratory Data Analysis in Python
+
+Focus: Sales trends, customer segmentation, delivery performance & revenue insights.
+
+🤖 Logistic Regression Model (Python)
+- Implemented classification model from scratch
+- Data preprocessing & feature engineering
+- Model evaluation (Accuracy, Precision, Recall)
+- Business interpretation of results
+
+⚛ React Single Page Application
+- REST API consumption
+- Component-based architecture
+- State management fundamentals
+
+📈 Currently Learning
+- Advanced SQL optimization
+- Data Warehousing concepts
+- GCP ecosystem for Data Analytics
+- Feature engineering techniques
+
+# Contact 📬
+💼 LinkedIn: https://www.linkedin.com/in/johan-huayanay/
+
+📧 Correo: johanpha04@gmail.com
