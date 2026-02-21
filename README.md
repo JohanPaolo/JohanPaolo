@@ -9,35 +9,13 @@ I enjoy transforming raw data into insights that support decision-making.
 
 Currently:
 
-📊 Working on end-to-end data projects (ETL + SQL + BI)
-🧠 Developing analytical models with Python
-📈 Building dashboards in Power BI
-🎯 Preparing for roles in Data Analytics / Data Science Junior
-
-I’m especially interested in:
-- Business Intelligence
-- Data-driven decision making
-- Machine Learning applied to real-world problems
-- Data Engineering fundamentals
-
-🛠 Tech Stack
-
-💻 Programming & Query Languages
-- Python (Pandas, NumPy, Scikit-learn)
-- PL/SQL
-- R
-- JavaScript
-- Java
-
-📊 Data & BI Tools
-- Power BI
-- Excel (Advanced)
-- Git & GitHub
-- PostgreSQL
-- SQL Server
+- 📊 Working on end-to-end data projects (ETL + SQL + BI)
+- 🧠 Developing analytical models with Python
+- 📈 Building dashboards in Power BI
+- 🎯 Preparing for roles in Data Analytics / Data Science Junior
 
 # Featured Projects
-📦 E-Commerce Data Analysis (Olist Dataset)
+📦 Project 1: E-Commerce Data Analysis (Olist Dataset) (in process)
 - ETL process from CSV to PostgreSQL
 - Data modeling and relational schema design
 - Business KPI analysis
@@ -46,16 +24,12 @@ I’m especially interested in:
 
 Focus: Sales trends, customer segmentation, delivery performance & revenue insights.
 
-🤖 Logistic Regression Model (Python)
+🤖 [Project 2: Logistic Regression Model with Python](https://github.com/JohanPaolo/LogisticRegressionModel)
 - Implemented classification model from scratch
 - Data preprocessing & feature engineering
 - Model evaluation (Accuracy, Precision, Recall)
 - Business interpretation of results
 
-⚛ React Single Page Application
-- REST API consumption
-- Component-based architecture
-- State management fundamentals
 
 📈 Currently Learning
 - Advanced SQL optimization
